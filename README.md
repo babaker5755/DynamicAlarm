@@ -1,7 +1,7 @@
 # Dynamic Alarm
 
 ## Demo
-![GIF Demo](https://github.com/babaker5755/DynamicAlarm/blob/master/dynamic_alarm_gif.gif)
+![GIF Demo](https://github.com/babaker5755/DynamicAlarm/blob/main/dynamic_alarm_gif.gif)
 
 ## Description
 Have you ever been late because of traffic? Dynamic Alarm will help make sure it never happens again!
